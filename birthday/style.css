@@ -1,0 +1,11 @@
+h1 {
+    font-size: 40px;
+    background: #230b57;
+    color: aliceblue;
+    text-align: center;
+}
+
+.mincho {
+    font-family: "Yu Mincho";
+    font-size: 20px;
+}
